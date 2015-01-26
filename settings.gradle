@@ -1,0 +1,4 @@
+rootProject.name = 'circuit-breaker-test'
+
+include 'hystrix-sample'
+

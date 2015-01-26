@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.netflix.hystrix:hystrix-core:1.4.0-RC6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.hystrix/hystrix-core/1.4.0-RC6/d6c7726b3301eba75ca082d93947d91bc9cc9bd8/hystrix-core-1.4.0-RC6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.hystrix/hystrix-core/1.4.0-RC6/8b5938b0960e950015f9cf03add89f85f848f86d/hystrix-core-1.4.0-RC6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
